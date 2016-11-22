@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<fdmmaterial xmlns="http://www.ultimaker.com/material">
+  <metadata>
+    <name>
+      <brand>BQ</brand>
+      <material>PLA</material>
+      <color>Generic</color>
+      <label>Black PLA</label>
+    </name>
+    <GUID>506c9f0d-e3aa-4bd4-b2d2-23e2425b1aa9</GUID>
+    <compatible>True</compatible>
+    <version>1</version>
+    <adhesion_info />
+    <description />
+    <color_code>#000000</color_code>
+  </metadata>
+  <properties>
+    <diameter>1.75</diameter>
+    <density>1.24</density>
+  </properties>
+  <settings>
+    <setting key="retraction speed">10.0</setting>
+    <setting key="standby temperature">175.0</setting>
+    <setting key="heated bed temperature">0.0</setting>
+    <setting key="retraction amount">1.0</setting>
+    <setting key="print temperature">210.0</setting>
+    <machine>
+      <machine_identifier manufacturer="Ultimaker" product="Ultimaker 2 Go" />
+      <setting key="processing temperature graph">
+                </setting>
+      <setting key="standby temperature">150</setting>
+      <setting key="heated bed temperature">60</setting>
+      <setting key="print temperature">200</setting>
+    </machine>
+    <machine>
+      <machine_identifier manufacturer="Ultimaker" product="Ultimaker 2 Extended" />
+      <setting key="processing temperature graph">
+                </setting>
+      <setting key="standby temperature">150</setting>
+      <setting key="heated bed temperature">60</setting>
+      <setting key="print temperature">200</setting>
+    </machine>
+    <machine>
+      <machine_identifier manufacturer="Ultimaker" product="Ultimaker 2+" />
+      <setting key="heated bed temperature">60</setting>
+      <setting key="print temperature">200</setting>
+      <hotend id="0.4 mm" />
+      <hotend id="0.25 mm" />
+      <hotend id="0.6 mm" />
+      <hotend id="0.8 mm" />
+    </machine>
+    <machine>
+      <machine_identifier manufacturer="Ultimaker" product="ultimaker3" />
+      <setting key="heated bed temperature">60</setting>
+      <setting key="print cooling">100</setting>
+      <setting key="print temperature">200</setting>
+      <hotend id="BB 0.4" />
+      <hotend id="AA 0.4" />
+    </machine>
+    <machine>
+      <machine_identifier manufacturer="Ultimaker" product="Ultimaker Original" />
+      <setting key="standby temperature">150</setting>
+      <setting key="heated bed temperature">60</setting>
+      <setting key="print temperature">200</setting>
+    </machine>
+    <machine>
+      <machine_identifier manufacturer="Ultimaker" product="Ultimaker 2 Extended+" />
+      <setting key="heated bed temperature">60</setting>
+      <setting key="print temperature">200</setting>
+      <hotend id="0.6 mm" />
+      <hotend id="0.8 mm" />
+      <hotend id="0.25 mm" />
+      <hotend id="0.4 mm" />
+    </machine>
+    <machine>
+      <machine_identifier manufacturer="Ultimaker" product="Ultimaker 2" />
+      <setting key="processing temperature graph">
+                </setting>
+      <setting key="standby temperature">150</setting>
+      <setting key="heated bed temperature">60</setting>
+      <setting key="print temperature">200</setting>
+    </machine>
+  </settings>
+</fdmmaterial>
