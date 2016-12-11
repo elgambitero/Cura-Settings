@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<fdmmaterial xmlns="http://www.ultimaker.com/material">
+  <metadata>
+    <name>
+      <brand>FormFutura</brand>
+      <material>FlexiFil</material>
+      <color>Black</color>
+      <label>Black FlexiFil</label>
+    </name>
+    <adhesion_info />
+    <description />
+    <GUID>2f9d2279-9b0e-4765-bf9b-d1e1e13f3c49</GUID>
+    <color_code>#2a292a</color_code>
+    <compatible>True</compatible>
+    <version>0</version>
+  </metadata>
+  <properties>
+    <density>1.10</density>
+    <diameter>1.75</diameter>
+  </properties>
+  <settings>
+    <setting key="retraction amount">2.0</setting>
+    <setting key="retraction speed">40.0</setting>
+    <setting key="standby temperature">200</setting>
+    <setting key="print temperature">220.0</setting>
+    <setting key="heated bed temperature">0.0</setting>
+    <machine>
+      <machine_identifier manufacturer="Ultimaker" product="Ultimaker 2+" />
+      <setting key="heated bed temperature">80</setting>
+      <setting key="print temperature">225</setting>
+      <hotend id="0.4 mm" />
+      <hotend id="0.25 mm" />
+      <hotend id="0.6 mm" />
+      <hotend id="0.8 mm" />
+    </machine>
+    <machine>
+      <machine_identifier manufacturer="Ultimaker" product="ultimaker3" />
+      <setting key="heated bed temperature">80</setting>
+      <setting key="print temperature">225</setting>
+      <setting key="print cooling">5</setting>
+      <hotend id="AA 0.4" />
+      <hotend id="BB 0.4" />
+    </machine>
+    <machine>
+      <machine_identifier manufacturer="Ultimaker" product="Ultimaker 2 Extended+" />
+      <setting key="heated bed temperature">80</setting>
+      <setting key="print temperature">225</setting>
+      <hotend id="0.25 mm" />
+      <hotend id="0.4 mm" />
+      <hotend id="0.8 mm" />
+      <hotend id="0.6 mm" />
+    </machine>
+  </settings>
+</fdmmaterial>
