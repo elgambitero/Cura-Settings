@@ -25,30 +25,10 @@
     <setting key="print temperature">220.0</setting>
     <setting key="heated bed temperature">0.0</setting>
     <machine>
-      <machine_identifier manufacturer="Ultimaker" product="Ultimaker 2+" />
-      <setting key="heated bed temperature">80</setting>
-      <setting key="print temperature">225</setting>
-      <hotend id="0.4 mm" />
-      <hotend id="0.25 mm" />
-      <hotend id="0.6 mm" />
-      <hotend id="0.8 mm" />
-    </machine>
-    <machine>
-      <machine_identifier manufacturer="Ultimaker" product="ultimaker3" />
-      <setting key="heated bed temperature">80</setting>
-      <setting key="print temperature">225</setting>
-      <setting key="print cooling">5</setting>
-      <hotend id="AA 0.4" />
-      <hotend id="BB 0.4" />
-    </machine>
-    <machine>
-      <machine_identifier manufacturer="Ultimaker" product="Ultimaker 2 Extended+" />
-      <setting key="heated bed temperature">80</setting>
-      <setting key="print temperature">225</setting>
-      <hotend id="0.25 mm" />
-      <hotend id="0.4 mm" />
-      <hotend id="0.8 mm" />
-      <hotend id="0.6 mm" />
+      <machine_identifier manufacturer="BQ" product="fdmprinter" />
+      <setting key="standby temperature">175</setting>
+      <setting key="heated bed temperature">0</setting>
+      <setting key="print temperature">210</setting>
     </machine>
   </settings>
 </fdmmaterial>
