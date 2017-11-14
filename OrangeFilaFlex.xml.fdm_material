@@ -2,17 +2,17 @@
 <fdmmaterial version="1.3" xmlns="http://www.ultimaker.com/material">
   <metadata>
     <name>
-      <brand>FormFutura</brand>
-      <material>FlexiFil</material>
-      <color>Black</color>
-      <label>BlackFlexiFil</label>
+      <brand>Recreus</brand>
+      <material>FilaFlex</material>
+      <color>Orange</color>
+      <label>OrangeFilaFlex</label>
     </name>
-    <GUID>43e2f3fd-aa38-401a-9a4f-bbaedf732692</GUID>
+    <GUID>b8930735-b612-4ff3-acb7-fcbb55d5b463</GUID>
     <compatible>True</compatible>
-    <color_code>#2a292a</color_code>
+    <color_code>#ff5500</color_code>
     <version>2</version>
-    <description />
-    <adhesion_info />
+    <description>Flexible and elastic material. Excellent interlaminar adhesion, but works well with supports. Very very stringy, and needs special extruder</description>
+    <adhesion_info>No heated buildplate needed.</adhesion_info>
   </metadata>
   <properties>
     <density>1.10</density>
